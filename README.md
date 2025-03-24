@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile! I'm Celestine Wanjiru, a passionate software engineer excited to share my projects and contribute to the tech community.
 
-<!--
-**Celestinewanjiru/Celestinewanjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building innovative mobile apps and web applications.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on software engineering, web apps, and mobile development with Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with optimizing my Flutter mobile apps and improving app performance.
+
+💬 Ask me about web development, mobile development, or software engineering!
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I once built a DIY robot that can follow a line on the floor!
+![Celestinewanjiru's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestinewanjiru&show_icons=true&theme=radical)
