@@ -1,5 +1,5 @@
-Hi there 👋
-Welcome to my GitHub profile! I'm Celestine Wanjiru, a passionate software engineer excited to share my projects and contribute to the tech community.
+<h1>Hi there 👋, I'm Celestine Wanjiru</h1>
+Welcome to my GitHub profile! A passionate software engineer excited to share my projects and contribute to the tech community.
 
 🔭 I’m currently working on building innovative mobile apps and web applications.
 
