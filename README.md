@@ -12,7 +12,7 @@ Welcome to my GitHub profile! A passionate software engineer excited to share my
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I once built a DIY robot that can follow a line on the floor!
-![Celestinewanjiru's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Celestinewanjiru&show_icons=true&theme=radical)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:celestinewanjiru5@gmail.com) 
 
